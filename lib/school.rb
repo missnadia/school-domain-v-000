@@ -6,4 +6,5 @@ class School
     @name = name
     roster << name
   end
+
 end
